@@ -1,0 +1,8 @@
+train: /home/aimlgpu2/Amol/yolov5_ws/yolov5/data/Images/training/
+val: /home/aimlgpu2/Amol/yolov5_ws/yolov5/data/Images/validation/
+    
+# number of classes
+nc: 7
+
+# class names
+names: ['Oral_Precancer','Oral_Cancer','Dental_Stains','Gingivitis','Dental_Caries','Dental_Fluorosis','Fractured_Teeth']
